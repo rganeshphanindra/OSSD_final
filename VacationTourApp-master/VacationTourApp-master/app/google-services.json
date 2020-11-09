@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "709577132027",
+    "firebase_url": "https://vacationtourapp-846bd.firebaseio.com",
+    "project_id": "vacationtourapp-846bd",
+    "storage_bucket": "vacationtourapp-846bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709577132027:android:37f25ca9c177e4bfce2d5e",
+        "android_client_info": {
+          "package_name": "com.Tourism.vacationtourapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709577132027-sslnj51rdkvqpb18q2cmuucd92nf278f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtiTVwyhozMLeAgp6KsiETXrYj-_dHoUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709577132027-sslnj51rdkvqpb18q2cmuucd92nf278f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
